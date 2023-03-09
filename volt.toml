@@ -3,5 +3,6 @@ display-name = "Ocean Space Refined"
 description = "The Deep Oceanic Blue Theme"
 version = "0.1.0"
 author = "Mikastiv"
+icon = "icon.png"
 repository = "https://github.com/Mikastiv/ocean-space-refined-lapce"
 color-themes = ["ocean-space-refined.toml"]

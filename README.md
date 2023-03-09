@@ -1,12 +1,8 @@
-<h1 align="center">🌌 Ocean Space Refined 🚀</h1>
+# 🌌 Ocean Space Refined 🚀
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Mikastiv/ocean-space-refined/master/images/icon.png" alt="ocean-space">
-</h1>
+![Logo](https://raw.githubusercontent.com/Mikastiv/ocean-space-refined/master/images/icon.png)
 
-<h4 align="center">
- Lapce adaptation of <a href="https://github.com/Mikastiv/ocean-space-refined">Ocean Space Refined</a>, the deep oceanic blue Visual Studio Code theme
-</h4>
+Lapce adaptation of [Ocean Space Refined](https://github.com/Mikastiv/ocean-space-refined), the deep oceanic blue Visual Studio Code theme
 
 ## License
 
