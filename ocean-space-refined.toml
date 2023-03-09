@@ -155,6 +155,7 @@ variable = "$white"
 "terminal.yellow" = "$yellow"
 
 [ui]
+font-family = ""
 font-size = 14
 icon-size = 0
 header-height = 35
